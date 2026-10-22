@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+users.json
+predictions.json
+latest_images.json
+.env
+predictions/
